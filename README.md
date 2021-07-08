@@ -19,8 +19,8 @@ c-k test (ck-test-bys-3.png),
 proportion of each state (3states-macrostate_proportion.txt),
 the position of each macrostate (3-multiple.png),
 the transition time between states (3-data.csv),
-the representative structures (3-macro-1-15.pdb and so on),
-and the representative trajectories (3-macro-1-15.nc and so on, with repeated points due to the toy model).
+the representative structures (3-macro-1-0.1.pdb and so on),
+and the representative trajectories (3-macro-1-0.1.nc and so on).
 
 To run it, just type python pyemma_hxh.py in your cmd. It needs around 10 minutes to run on a normal computer.
 
